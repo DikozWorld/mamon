@@ -130,6 +130,7 @@ body {
 .services_img {
     flex-basis: 120px;
     text-align: center;
+    padding-left: 20px;
 }
 
 .services_text {
